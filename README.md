@@ -1,0 +1,10 @@
+# CryptoSnapNews
+tiktok-terms
+<!DOCTYPE html>
+<html>
+<head><title>Terms of Service</title></head>
+<body>
+  <h1>Nutzungsbedingungen</h1>
+  <p>Diese Anwendung wird zu Testzwecken genutzt. Alle Daten werden vertraulich behandelt.</p>
+</body>
+</html>
